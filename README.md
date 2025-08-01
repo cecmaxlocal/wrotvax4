@@ -1,6 +1,6 @@
 Of course. Here is a comprehensive `README.md` file generated from your project details. It incorporates all the keywords into a logical project structure and provides a professional, well-documented starting point for your project.
 
-<img src="./matrix/cec/image/logon.jpg">
+<img src="./matrix/cec/image/logon.jpg" with="812" height="512">
 
 ---
 
