@@ -7,13 +7,13 @@ Of course. Here is a comprehensive `README.md` file generated from your project 
 ```markdown
 # Wrotvax4: The IDECow Desktop Program
 
-```
+
  \   ^__^
   \  (o o)\_______
      (___)\       )\/\
          ||----w |
          ||     ||
-```
+
 
 **The IDE that listens, talks, and codes with you.**
 
